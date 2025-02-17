@@ -1,0 +1,94 @@
+.aria{
+  background-color: rgb(37, 35, 35);
+  /* background-color: rgb(206, 206, 207); */
+  border: 3px solid yellow;
+  /* border: 3px solid blue; */
+}
+.start{
+  color:yellow; 
+  font-size: 1.1cm;
+  /* color: blue; */
+}
+.p1{
+  color: yellow;
+  /* color: blue; */
+  font-size: 1.1cm;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+.p2{
+  color: white;
+   font-size: 0.8cm;
+   padding-right: 50px;
+   padding-left: 50px;
+  }
+.table{
+  border-color: yellow;
+  /* border-color: blue; */
+   font-size: 1cm;
+  }
+.img{ width: 50%;
+   height: 50%;
+    border: 2px solid yellow;
+    /* border: 2px solid blue; */
+  }
+.div{
+  background-color: rgb(218, 218, 0);
+  /* background-color: rgb(3, 3, 223); */
+  width:100%;
+  height: 15cm;
+  font-size: 1.6cm;
+  color: rgb(37, 35, 35);
+  flex-direction: column;
+  /* padding-right: 50px; */
+  /* padding-left: 50px; */
+}
+.div2{
+  font-size: 0.8cm;
+}
+.b1{
+  background-image: url(images/bg.jpg);
+  flex-direction: row;
+  flex-direction: column;
+  display: flex;
+  align-items: right;
+  background-size: cover;
+  height: 120vh;
+  padding-right: 50px;
+} 
+.textarea {
+  width: 60%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #000000;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+}
+.textarea2 {
+  width: 20%;
+  height: 40px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #000000;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+  /* margin-right: 10px; */
+}
+.submit {
+  width: 60px;
+  height: 40px;
+  box-sizing: border-box;
+  border: 2px solid #000000;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+}
+.div4{
+  font-size: 1cm;
+}
